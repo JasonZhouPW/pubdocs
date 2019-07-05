@@ -124,8 +124,6 @@ runtime模块分为native和编译好的wasm文件, 节点在执行交易时会�
 
 
 
-![img](http://img.btb8.com/201810/932617-6381b237b732030c5884b72b28c374ad)
-
 ## Runtime structure
 
 ![](./images/runtimeStructure.png)
